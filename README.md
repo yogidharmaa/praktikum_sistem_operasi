@@ -1,4 +1,3 @@
-# praktikum_sistem_operasi
 # Praktikum Sistem Operasi (Sisop)
 **Semester Ganjil Tahun Ajaran 2026/2027**
 
